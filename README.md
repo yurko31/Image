@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @yurko31
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Изображение</title>
+</head>
+<body>
 
-<!---
-yurko31/yurko31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    <h2>Мое фото:</h2>
+    <img src="url_вашего_изображения.jpg" alt="Мое фото">
+
+</body>
+</html>
